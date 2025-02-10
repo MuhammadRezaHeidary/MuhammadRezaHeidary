@@ -93,9 +93,12 @@
 [![Contribution Shield](https://img.shields.io/badge/Repos_Contributed-8-brightgreen?logo=git)](https://github.com/MuhammadRezaHeidary)
 
 ### Automated Trackers
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRezaHeidary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&custom_title=Development+Activity)](https://github.com/MuhammadRezaHeidary)
+---
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadRezaHeidary&theme=github_dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRezaHeidary&theme=dark&hide_border=false&layout=compact&langs_count=6&card_width=445&exclude_repo=repo1,repo2)](https://github.com/MuhammadRezaHeidary)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadRezaHeidary&theme=github_dark)
+
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadRezaHeidary&theme=github_dark&utcOffset=4)
 
 ---
 💡 **Let’s build the future of embedded systems and IoT!**  
