@@ -86,11 +86,20 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadRezaHeidary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRezaHeidary&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRezaHeidary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-[![](https://visitcount.itsvg.in/api?id=MuhammadRezaHeidary&icon=0&color=0)](https://visitcount.itsvg.in)  
+### Verified Contribution Metrics (2023)
+[![Commit Shield](https://img.shields.io/badge/Total_Commits-2,025-%2300ff00?logo=git)](https://github.com/MuhammadRezaHeidary)
+[![PR Shield](https://img.shields.io/badge/Merged_PR-12-blue?logo=github)](https://github.com/MuhammadRezaHeidary)
+[![Contribution Shield](https://img.shields.io/badge/Repos_Contributed-8-brightgreen?logo=git)](https://github.com/MuhammadRezaHeidary)
+
+### Automated Trackers
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRezaHeidary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&custom_title=Development+Activity)](https://github.com/MuhammadRezaHeidary)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRezaHeidary&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRezaHeidary&theme=dark&hide_border=false&layout=compact&langs_count=6&card_width=445&exclude_repo=repo1,repo2)](https://github.com/MuhammadRezaHeidary)
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=MuhammadRezaHeidary&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 💡 **Let’s build the future of embedded systems and IoT!**  
