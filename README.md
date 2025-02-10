@@ -38,7 +38,7 @@
 - **Smart Pool Boiler System**  
   ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
   ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white) 
-  ![ESP8266](https://img.shields.io/badge/ESP32-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto)  - Created touch-enabled control panel with water resistance rating (IP68)  
+  ![ESP8266](https://img.shields.io/badge/ESP32-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto) 
   - Implemented OTA updates and cloud integration  
   - Reduced standby power consumption to <0.5W
 
