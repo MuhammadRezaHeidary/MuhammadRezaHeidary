@@ -28,29 +28,29 @@
 ## 🚀 Key Projects:
 ### 🏭 Industrial IoT Solutions
 - **Smart IoT Wall-Mounted Boiler**  
-  ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
+  ![Altium](https://img.shields.io/badge/Altium-32CD32?logo=altium-designer)
   ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
-  ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto)  
+  ![ESP8266](https://img.shields.io/badge/ESP8266-FFCA4B?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-AC1F3D?logo=mosquitto)  
   - Developed firmware for ARM Cortex-M3 with 15% energy optimization  
   - Integrated WiFi/BLE connectivity for remote temperature monitoring  
   - Implemented predictive maintenance algorithms
 
 - **Smart Pool Boiler System**  
-  ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
+  ![Altium](https://img.shields.io/badge/Altium-32CD32?logo=altium-designer)
   ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white) 
-  ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto) 
+  ![ESP8266](https://img.shields.io/badge/ESP8266-FFCA4B?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-AC1F3D?logo=mosquitto) 
   - Implemented OTA updates and cloud integration  
   - Reduced standby power consumption to <0.5W
 
 - **Industrial VCUT Machine Controller**  
-  ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
+  ![Altium](https://img.shields.io/badge/Altium-32CD32?logo=altium-designer)
   ![RS485](https://img.shields.io/badge/RS485-009999)
   - Designed 4-layer PCB for precision cutting control system  
   - Achieved ±0.1mm positional accuracy with closed-loop stepper control  
   - Reduced component count by 30% through circuit optimization
 
 - **Industrial Guillotine Machine Controller**  
-  ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
+  ![Altium](https://img.shields.io/badge/Altium-32CD32?logo=altium-designer)
   ![RS485](https://img.shields.io/badge/RS485-009999) 
   - Developed SIL-2 compliant safety circuit design  
   - Integrated emergency stop chain with <50ms response  
@@ -94,11 +94,9 @@
 
 ### Automated Trackers
 ---
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadRezaHeidary&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadRezaHeidary&theme=github_dark" width="100%">
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadRezaHeidary&theme=github_dark)
-
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadRezaHeidary&theme=github_dark&utcOffset=4)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadRezaHeidary&theme=github_dark" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadRezaHeidary&theme=github_dark&utcOffset=4" width="49%">
 
 ---
 💡 **Let’s build the future of embedded systems and IoT!**  
