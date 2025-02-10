@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Reza Heidary!  
-### 🛠️ Embedded System Designer | PCB Architect | C++ Developer | IoT & CCTV Specialist  
+### 🛠️ Embedded System Designer | PCB Designer | C++ Developer | IoT & CCTV Specialist  
 
 📧 **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhammadreza.heidary@gmail.com)  
 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reza-heidary/)  
