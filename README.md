@@ -30,7 +30,7 @@
 - **Smart IoT Wall-Mounted Boiler**  
   ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
   ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
-  ![ESP8266](https://img.shields.io/badge/ESP32-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto)  
+  ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto)  
   - Developed firmware for ARM Cortex-M3 with 15% energy optimization  
   - Integrated WiFi/BLE connectivity for remote temperature monitoring  
   - Implemented predictive maintenance algorithms
@@ -38,7 +38,7 @@
 - **Smart Pool Boiler System**  
   ![Altium](https://img.shields.io/badge/Altium-AC1F3D?logo=altium-designer)
   ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white) 
-  ![ESP8266](https://img.shields.io/badge/ESP32-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto) 
+  ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?logo=espressif) ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mosquitto) 
   - Implemented OTA updates and cloud integration  
   - Reduced standby power consumption to <0.5W
 
